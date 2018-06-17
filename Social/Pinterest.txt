@@ -1,0 +1,23 @@
+# Energized - ad.porn.malware blocking.
+# A merged collection of hosts from reputable sources.
+# https://ador.chorompotro.com
+#
+# -================-Maintainer-================-
+# Nayem Ador - https://adroitadorkhan.github.io
+# -============================================-
+#
+# Social Blockings - Facebook, Inc. & Domains
+
+api.pinterest.com
+edgecastcdn.com
+ns1.pinterest.com
+ns2.pinterest.com
+ns3.pinterest.com
+ns4.pinterest.com
+ns5.pinterest.com
+ns6.pinterest.com
+ns7.pinterest.com
+ns8.pinterest.com
+pin.it
+pinimg.com
+pinterest.com
