@@ -1,0 +1,37 @@
+# Energized - ad.porn.malware blocking.
+# A merged collection of hosts from reputable sources.
+# https://ador.chorompotro.com
+#
+# -================-Maintainer-================-
+# Nayem Ador - https://adroitadorkhan.github.io
+# -============================================-
+#
+# Corp Blockings - Apple Inc.
+
+Airport.com
+Applecomputer.com
+Appleimac.com
+Applemusic.com
+Buy-Different.com
+BuyAAPL.com
+Carbon.com
+DesktopMovie.com
+DigitalHub.com
+Dvdstudiopro.com
+FinalCutPro.com
+FireWire.org
+PublishingResearch.com
+PublishingSurvey.com
+Quicktime.com
+Xserve.com
+Xserve.net
+apple-dns.net
+apple.com
+iChat.com
+iMac.com
+iPhone.org
+iPod.com
+iPodRocks.com
+iTunes.com
+iWork.com
+mac.com
